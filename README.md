@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-### Explanation
+# Explanation
 This Project was developed in angular and later in React, is the front end part of project corpus website and is missing the library component (developed in React) which you can find separetely at project-corpus-library-FRONTEND github repository. the backend part (Developed in Node.js) of the library component is at Project-corpus-BACKEND github repository. For any further information please contact at contact@pkarabetsos.com .
 
 ## Available Scripts
